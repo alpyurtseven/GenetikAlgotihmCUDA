@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenetikAlgCUDA", "GenetikAlgCUDA\GenetikAlgCUDA.csproj", "{D590C691-8DD8-4874-A30A-D1B56B71E8CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D590C691-8DD8-4874-A30A-D1B56B71E8CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D590C691-8DD8-4874-A30A-D1B56B71E8CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D590C691-8DD8-4874-A30A-D1B56B71E8CB}.Debug|x64.ActiveCfg = Debug|x64
+		{D590C691-8DD8-4874-A30A-D1B56B71E8CB}.Debug|x64.Build.0 = Debug|x64
+		{D590C691-8DD8-4874-A30A-D1B56B71E8CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D590C691-8DD8-4874-A30A-D1B56B71E8CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D590C691-8DD8-4874-A30A-D1B56B71E8CB}.Release|x64.ActiveCfg = Release|x64
+		{D590C691-8DD8-4874-A30A-D1B56B71E8CB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E268D4C-3906-4EFE-BAEA-64F5D06E5B47}
+	EndGlobalSection
+EndGlobal
